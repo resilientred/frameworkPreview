@@ -34,9 +34,9 @@ module.exports = function (app, config, passport) {
     app.use(express.bodyParser());
     app.use(express.methodOverride())
 
-		// express/redis session storage
+    // express/redis session storage
     // app.use(express.session({
-//       secret: 'sprint2',
+   //    secret: 'sprint2',
 //       store: new RedisStore(config.redis)
 //     }))
 

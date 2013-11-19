@@ -3,7 +3,7 @@
  */
 
 var express = require('express')
-	, Resource = require('express-resource')
+  , Resource = require('express-resource')
   , fs = require('fs')
   , env = process.env.NODE_ENV || 'development'
   , config = require('./config/config')[env]

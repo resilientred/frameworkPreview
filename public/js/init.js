@@ -3,7 +3,7 @@ window.bootstrap = function () {
 }
 
 window.init = function () {
-    window.bootstrap()		
+    window.bootstrap() 		
 }
 
 $(document).ready(function () {

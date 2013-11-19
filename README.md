@@ -3,7 +3,7 @@
 ##前端
 - [Angularjs](http://angularjs.org/)
 - [bower](http://bower.io/)
-- [Bootstrp](http://getbootstrap.com/)
+- [Bootstrap](http://getbootstrap.com/)
 
 ##后端
 - [Node.js](http://nodejs.org/)

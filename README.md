@@ -1,0 +1,2 @@
+structPreview
+=============
